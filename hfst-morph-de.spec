@@ -15,7 +15,7 @@ Requires:	hfst
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This is an German morphological transducer for HFST. It's based on
+This is a German morphological transducer for HFST. It's based on
 SFST SMOR morphological analyser with Morphisto lexical extensions
 (<http://code.google.com/p/morphisto/>).
 
